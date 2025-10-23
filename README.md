@@ -1,4 +1,4 @@
-# Run and deploy your app
+# Correr y hazle deploy a la app
 
 Aqui esta lo que necesitas para correr la app localmente
 
